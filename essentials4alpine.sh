@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
   #==========================================
   # Project: essentials4alpine.sh
   # Author:  ConzZah / ©️ 2025
